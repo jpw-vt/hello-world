@@ -1,3 +1,3 @@
 # hello-world
 Hello World!
-Python Newbie
+Python and Bash Newbie
